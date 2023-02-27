@@ -1,0 +1,33 @@
+.ab1{
+    border-radius: 10px;
+}
+.abic{
+    
+    background-color: rgba(45, 65, 250, 0.767);
+    font-size: 20px;
+    color: rgb(255, 250, 250);
+}
+.abic:hover{
+    background-color: rgba(0, 26, 255, 0.342);
+    color: white;
+}
+.btn{
+    margin-top: 20px;
+    padding-left: 100px;
+
+    
+}
+.container{
+    
+        margin: 130px  550px;
+        font-size: 14px;
+        min-height: 10vh;
+        font-family: sans-serif;
+        background: rgba(64, 164, 231, 0.253);    
+        padding: 30px;
+        border-radius: 15px;
+        text-transform: uppercase;
+        
+    
+}
+
